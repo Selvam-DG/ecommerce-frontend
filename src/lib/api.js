@@ -110,4 +110,7 @@ export const paymentAPI = {
   getRefunds: () => api.get('/payments/refunds/'),
 };
 
+export const adminPage = {
+
+}
 export default api;
